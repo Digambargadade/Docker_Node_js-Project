@@ -1,6 +1,6 @@
 FROM node:14-alpine
 
-WORK DIR /app
+WORKDIR /app Coconnex.com
 
 COPY . /app
 
