@@ -1,4 +1,4 @@
-FROM node:14-alpine
+hiFROM node:14-alpine
 
 WORKDIR /app Coconnex.com
 
