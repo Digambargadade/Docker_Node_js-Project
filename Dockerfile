@@ -1,4 +1,4 @@
-THIs IS DEMO FROM node:14-alpine
+fROM node:14-alpine
 
 WORKDIR /app Coconnex.com
 
