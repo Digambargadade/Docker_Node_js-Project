@@ -1,6 +1,6 @@
 
 
-WORKDIR /app Coconnex.com
+
 
 COPY . /app
 
