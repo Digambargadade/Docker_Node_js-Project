@@ -1,5 +1,5 @@
 THIs IS DEMO FROM node:14-alpine
-
+ dssg
 WORKDIR /app Coconnex.com
 
 COPY . /app
